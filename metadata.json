@@ -1,0 +1,6 @@
+{
+  "name": "CampusSaathi AI",
+  "description": "An AI-powered Campus Service & Assistance Platform for CSJMU, Kanpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
